@@ -14,3 +14,9 @@ https://stat.duke.edu/~tjl13/s101/slides/unit6lec3H.pdf
 
 Scala Benchmarking
 http://scalameter.github.io/home/gettingstarted/0.7/simplemicrobenchmark/
+
+
+Payroll
+https://zenpayroll.com/
+For contactors
+Upwork
