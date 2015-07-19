@@ -19,4 +19,12 @@ http://scalameter.github.io/home/gettingstarted/0.7/simplemicrobenchmark/
 Payroll
 https://zenpayroll.com/
 For contactors
+
+
+
 Upwork
+
+
+#Useful Meteor commands:
+send this an object, and it'll print out a beautified version in the console.
+```console.log(JSON.stringify(obj, null, 2))```
