@@ -28,3 +28,8 @@ Upwork
 #Useful Meteor commands:
 send this an object, and it'll print out a beautified version in the console.
 ```console.log(JSON.stringify(obj, null, 2))```
+
+
+
+#command line
+```ls -lah``` list human readable
