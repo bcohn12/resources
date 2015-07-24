@@ -33,3 +33,9 @@ send this an object, and it'll print out a beautified version in the console.
 
 #command line
 ```ls -lah``` list human readable
+
+
+#startup
+https://github.com/hakimel/reveal.js
+http://www.lifehacker.com.au/2013/11/top-10-ways-to-improve-hackathon-presentations/
+https://parse.com/apps/quickstart#embedded/raspberrypi
