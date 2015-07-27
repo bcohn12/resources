@@ -43,3 +43,10 @@ http://www.lifehacker.com.au/2013/11/top-10-ways-to-improve-hackathon-presentati
 https://parse.com/apps/quickstart#embedded/raspberrypi
 
 http://requestb.in/vuq1ruvu?inspect
+
+#After Pull requests:
+    ```
+    git pull origin develop
+    git branch -d iss-#91
+    git push origin :iss-#91
+    ```
