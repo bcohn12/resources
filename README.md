@@ -50,3 +50,9 @@ http://requestb.in/vuq1ruvu?inspect
     git branch -d iss-#91
     git push origin :iss-#91
     ```
+
+# Medical School resources
+Up to date
+https://libproxy.usc.edu/login?url=http://web-app.usc.edu/web/eresources/rec.php?id=6434&rurl=http%3A%2F%2Flibproxy.usc.edu%2Flogin%2Fwocme
+
+keck2020;medicine mediacyte 
