@@ -1,3 +1,9 @@
+# computer science
+http://arxiv.org/list/cs.CV/recent
+http://arxiv.org/list/cs.LG/recent
+
+https://arxiv.org/
+
 # resources
 Useful sites
 
